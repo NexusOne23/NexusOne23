@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I build open-source privacy & security tools — helping people take back control of their data.
+I build privacy & security tools — helping people take back control of their data.
 
 ---
 
@@ -8,9 +8,9 @@ I build open-source privacy & security tools — helping people take back contro
 
 🐧 **[NoID Privacy for Linux](https://github.com/NexusOne23/noid-privacy-linux)** — Desktop privacy & security audit · 420+ checks · 42 sections · AI-assisted fix prompts
 
-📱 **[NoID Privacy for Android](https://play.google.com/store/apps/details?id=com.noid.privacy)** — Mobile privacy & security audit · 85+ checks · Permission scanner · Chrome hardening
+📱 **[NoID Privacy for Android](https://play.google.com/store/apps/details?id=com.noid.privacy)** — Mobile privacy & security audit · 90+ checks · Audits your device *and what Google collects*
 
-🏰 **[NoID Privacy Workstation](https://github.com/NexusOne23/noid-privacy-workstation)** — Fully-hardened Fedora 44 privacy & security OS · 40 modules · AI-agent-ready
+🏰 **[NoID Privacy Workstation](https://github.com/NexusOne23/noid-privacy-workstation)** — Fully-hardened Security & Privacy OS based on Fedora 44 · 40 modules · AI-agent-ready
 
 ---
 
